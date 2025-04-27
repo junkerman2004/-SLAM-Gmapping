@@ -10,11 +10,11 @@ mbot robot mapping and navigation
 # 2.SLAM-Gmapping navigation
 
 <div align="center">
-<img src="Assets/1(12).png" width="500" height="500"/>
+<img src="Assets/1 (12).png" width="500" height="500"/>
 </div>
 <div align="center">
-<img src="Assets/1(13).png" width="500" height="500"/>
+<img src="Assets/1 (13).png" width="500" height="500"/>
 </div>
 <div align="center">
-<img src="Assets/1(14).png" width="500" height="500"/>
+<img src="Assets/1 (14).png" width="500" height="500"/>
 </div>
