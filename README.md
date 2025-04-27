@@ -4,7 +4,10 @@ mbot robot mapping and navigation
 # 1.SLAM-Gmapping
 
 <div align="center">
-<img src="Assets/mmexport1743135190316.png" width="500" height="500"/>
+<img src="Assets/1 (11).png" width="500" height="500"/>
+</div>
+<div align="center">
+<img src="Assets/1 (10).png" width="500" height="500"/>
 </div>
 
 # 2.SLAM-Gmapping navigation
@@ -16,5 +19,5 @@ mbot robot mapping and navigation
 <img src="Assets/1 (13).png" width="500" height="500"/>
 </div>
 <div align="center">
-<img src="Assets/1 (14).png" width="500" height="500"/>
+<img src="Assets/1 (18).png" width="500" height="500"/>
 </div>
